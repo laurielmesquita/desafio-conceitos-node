@@ -1,4 +1,6 @@
 <h1 align="center">
+  <img alt="GoStack Bootcamp" src="https://res.cloudinary.com/laurielmesquita/image/upload/v1588590228/gostack_bootcamp_teytck.png" />
+  <br>
   Challenge of concepts about Node.js
   <br>
   <br>
@@ -16,4 +18,10 @@
 
 ## 🚀 About the challenge
 
-To create an application to store repositories in my portfolio, which will allow the creation, listing, update and removal of the repositories, and also allow the repositories to receive "likes".
+To create an application to store repositories in my portfolio, which will allow the creation, listing, update and removal of the repositories, and also allow the repositories to receive likes.
+
+---
+
+<br>
+<img alt="May the Code Review be with you" src="https://res.cloudinary.com/laurielmesquita/image/upload/v1588593832/code_review_sm_ihkixo.png" />
+
